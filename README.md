@@ -1,2 +1,0 @@
-# self
-stuff about me
